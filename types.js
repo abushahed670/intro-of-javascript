@@ -1,5 +1,5 @@
 var name = "sada uddin";
-var address  = "andor killa bandornban";
+var address  = "andor killa bandorban";
 var country = 'bangladesh';
 
 var isRich = true;
